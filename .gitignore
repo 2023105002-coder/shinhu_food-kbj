@@ -1,0 +1,20 @@
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Ide & Local settings
+.idea/
+.vscode/
+
+# Antigravity/Agentic files
+.gemini/
+.antigravityignore
+web_recordings/
+artifacts/
+
+# Executable or large binary files
+*.pdf
+*.bat
